@@ -1,9 +1,10 @@
 """
-Leer dos numeros e imprimir tres lineas donde:
-1. La primera linea contiene la suma de los dos numeros
-2. La segunda linea contiene la diferencia de los dos numeros (primero-segundo)
-3. La tercera linea contiene el producto de los dos numeros
+Read two numbers and print three lines where:
+1. The first line contains the sum of the two numbres.
+2. The second line contains the difference of the two numbers(first-second)
+3. The third line contains the product of the two numbers.
 """
+
 def sum(a, b):
     return a+b
 
