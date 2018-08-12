@@ -7,5 +7,4 @@ if __name__ == '__main__':
         scores = list(map(float, line))
         student_marks[name] = sum(scores)/len(scores)
 
-    query_name = input()
     print("{0:.2f}".format(student_marks[input()],2))
